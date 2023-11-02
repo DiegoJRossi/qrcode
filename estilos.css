@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.contenedor{
+    padding: 0px;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: #ee9;
+    border: 8px dashed #ff3;
+   
+}
+#player{
+    background-color: red;
+    border: black solid 2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
+.pointer{
+    background-color: #444;
+    height: 30px;
+    border-bottom: 0px;
+    margin-top: 30px;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 0px;
+}
+#player2{
+    background-color: rgb(255, 0, 128);
+    
+    width:auto;
+    height:auto;
+    border-radius:auto;
+    position: absolute;
+    transition: all 0.3s;
+}
+#player3{
+    background-color: rgba(30, 255, 0, 0.644);
+   
+    width: 10px;
+    height: 10px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
+#player4{
+    background-color: rgba(140, 0, 255, 0.658);
+    
+    width: 10px;
+    height: 10px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
+#player5{
+    background-color: rgba(0, 4, 255, 0.678);
+    
+    width: 10px;
+    height: 10px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
+#player6{
+    background-color: rgba(107, 58, 58, 0.74);
+    
+    width: 10px;
+    height: 10px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
+#player7{
+    background-color: rgba(255, 0, 0, 0.63);
+    
+    width: 10px;
+    height: 10px;
+    border-radius: 29px;
+    position: absolute;
+    transition: all 0.3s;
+}
